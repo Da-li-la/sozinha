@@ -1,0 +1,2 @@
+# sozinha
+aprendendo git
